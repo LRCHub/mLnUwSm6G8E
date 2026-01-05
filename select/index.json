@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "GO CRY GO",
+  "base_artist": "OxT",
+  "createdAt": "2026-01-05T11:25:04.414895Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GO CRY GO",
+      "artist": "OxT",
+      "has_synced": true,
+      "path": "select/01_GO_CRY_GO_OxT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GO CRY GO (\"Overlord\")",
+      "artist": "Studio Yuraki",
+      "has_synced": true,
+      "path": "select/02_GO_CRY_GO_(_Overlord_)_Studio_Yuraki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Go Cry Go!",
+      "artist": "Studio Yuraki",
+      "has_synced": true,
+      "path": "select/03_Go_Cry_Go!_Studio_Yuraki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Go Cry Go",
+      "artist": "NateWantsToBattle",
+      "has_synced": false,
+      "path": "select/04_Go_Cry_Go_NateWantsToBattle.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "GO CRY GO",
+      "artist": "OxT",
+      "has_synced": true,
+      "path": "select/05_GO_CRY_GO_OxT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "GO CRY GO",
+      "artist": "OxT",
+      "has_synced": true,
+      "path": "select/06_GO_CRY_GO_OxT.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Go Cry Go (Overlord) [feat. Romi]",
+      "artist": "Mattyyym",
+      "has_synced": false,
+      "path": "select/07_Go_Cry_Go_(Overlord)_[feat._Romi]_Mattyyym.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Go Cry Go (Overlord II)",
+      "artist": "Miura Jam",
+      "has_synced": false,
+      "path": "select/08_Go_Cry_Go_(Overlord_II)_Miura_Jam.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Go Cry Go",
+      "artist": "Miura Jam",
+      "has_synced": false,
+      "path": "select/09_Go_Cry_Go_Miura_Jam.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "GO CRY GO (From \"Overlord Season 2\") [Opening]",
+      "artist": "Fonzi M",
+      "has_synced": false,
+      "path": "select/10_GO_CRY_GO_(From__Overlord_Season_2_)_[Opening]_Fonzi_M.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Go Cry Go",
+      "artist": "NateWantsToBattle",
+      "has_synced": true,
+      "path": "select/11_Go_Cry_Go_NateWantsToBattle.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Go Cry Go",
+      "artist": "PelleK",
+      "has_synced": true,
+      "path": "select/12_Go_Cry_Go_PelleK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Go Cry Go (From “Overlord”)",
+      "artist": "PelleK",
+      "has_synced": true,
+      "path": "select/13_Go_Cry_Go_(From_“Overlord”)_PelleK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GO CRY GO",
+      "artist": "OxT",
+      "has_synced": false,
+      "path": "select/pl_01_GO_CRY_GO_OxT.txt"
+    }
+  ]
+}
